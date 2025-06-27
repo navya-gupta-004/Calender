@@ -22,7 +22,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'https://calender-1-x8un.onrender.com/'
+    'https://calender-1-x8un.onrender.com'
 ]
 
 STORAGES = {
